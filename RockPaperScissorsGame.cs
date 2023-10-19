@@ -61,7 +61,7 @@ public class RockPaperScissorsGame
 
 	public void ShowInputOptions()
 	{
-		Console.Write($"[{ROCK}] Rock | [{PAPER}] Paper | [{SCISSORS}] Scissors > ");
+		Console.Write($"[{ROCK}] Rock | [{PAPER}] Paper | [{SCISSORS}] Scissors: ");
 	}
 
 	public int GetInput()
